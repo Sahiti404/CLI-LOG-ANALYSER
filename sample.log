@@ -1,0 +1,5 @@
+2026-08-01 10:15:30 INFO System booted successfully.
+2026-08-01 10:16:05 WARN High memory usage detected.
+2026-08-01 10:17:12 ERROR Failed to connect to database model.
+2026-08-01 10:18:00 ERROR Network connection dropped.
+2026-08-01 10:19:45 INFO User session ended.

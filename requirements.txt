@@ -1,0 +1,5 @@
+# Log-Analyzer CLI Dependencies
+#Note: This project uses Python Standard Library (Python 3.8+)
+
+# Optional Development / Testing Dependencies
+pytest>=7.0.0
