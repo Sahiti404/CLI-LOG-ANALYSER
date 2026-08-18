@@ -57,12 +57,9 @@ python main.py -f sample.log -l WARNING
 
 📄 Expected Log Format
 The parser processes log entries structured in the standard format:
-
-Plaintext
 YYYY-MM-DD HH:MM:SS [LEVEL] Log message content
-Example (sample.log):
 
-Plaintext
+Example (sample.log):
 2026-08-01 10:15:30 [INFO] System booted successfully.
 2026-08-01 10:16:05 [WARNING] High memory usage detected.
 2026-08-01 10:17:12 [ERROR] Failed to connect to database model.
